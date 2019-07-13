@@ -9,7 +9,7 @@ module.exports = {
     "gatsby-plugin-catch-links",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-offline",
-    "gatsby-plugin-sitemap",
+    /*"gatsby-plugin-sitemap",*/
     {
       resolve: "gatsby-plugin-manifest",
       options: {
