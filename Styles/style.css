@@ -289,3 +289,9 @@ footer > span {
 .facebook:hover {
   opacity: 0.9;
 }
+
+@media (max-width: 400px) {
+  .container header > div {
+    display: inline;
+  }
+}

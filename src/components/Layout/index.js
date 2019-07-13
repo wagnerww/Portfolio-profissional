@@ -30,7 +30,7 @@ class Layout extends Component {
     return (
       <div className="container">
         <Helmet>
-          <meta name="description" content={description} />
+          <meta name="description" content="Wagner Ricardo Wagner" />
         </Helmet>
         <Header title={title} />
         <main>

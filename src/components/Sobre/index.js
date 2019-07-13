@@ -27,6 +27,13 @@ const Sobre = () => (
           certificação: Analista Sênior Genexus por Genexus Uruguay e React por
           RocketSeat.
         </p>
+        <br />
+        <p>
+          Hoje meu foco é voltado ao Frontend, especificamente ao React. Mesmo
+          assim, estruturei uma "stack", na qual consigo trabalhar no backend
+          com muita produtividade sem perder o foco em meu objetivo. Essa
+          estrutura está descrita logo abaixo ;)
+        </p>
       </div>
     </div>
   </section>
