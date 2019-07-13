@@ -1,0 +1,119 @@
+.sprite {
+  background-image: url(../static/sprite_tecnologias.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.sprite-adonis {
+  width: 47px;
+  height: 41px;
+  background-position: -5px -5px;
+}
+
+.sprite-apollo {
+  width: 42px;
+  height: 42px;
+  background-position: -62px -5px;
+}
+
+.sprite-css {
+  width: 42px;
+  height: 42px;
+  background-position: -114px -5px;
+}
+
+.sprite-docker {
+  width: 52px;
+  height: 52px;
+  background-position: -166px -5px;
+}
+
+.sprite-gatsby {
+  width: 42px;
+  height: 42px;
+  background-position: -5px -67px;
+}
+
+.sprite-graphql {
+  width: 42px;
+  height: 42px;
+  background-position: -57px -67px;
+}
+
+.sprite-gx {
+  width: 52px;
+  height: 52px;
+  background-position: -109px -67px;
+}
+
+.sprite-html5 {
+  width: 40px;
+  height: 40px;
+  background-position: -171px -67px;
+}
+
+.sprite-jquery {
+  width: 52px;
+  height: 52px;
+  background-position: -171px -117px;
+}
+
+.sprite-jslogo {
+  width: 32px;
+  height: 32px;
+  background-position: -5px -179px;
+}
+
+.sprite-knex {
+  width: 42px;
+  height: 42px;
+  background-position: -47px -179px;
+}
+
+.sprite-nextjs {
+  width: 52px;
+  height: 31px;
+  background-position: -99px -179px;
+}
+
+.sprite-nodelogo {
+  width: 40px;
+  height: 43px;
+  background-position: -161px -179px;
+}
+
+.sprite-pg {
+  width: 52px;
+  height: 52px;
+  background-position: -228px -5px;
+}
+
+.sprite-react {
+  width: 42px;
+  height: 42px;
+  background-position: -233px -67px;
+}
+
+.sprite-redux-saga-logo {
+  width: 52px;
+  height: 32px;
+  background-position: -5px -119px;
+}
+
+.sprite-redux_logo {
+  width: 52px;
+  height: 52px;
+  background-position: -233px -119px;
+}
+
+.sprite-sequelize {
+  width: 42px;
+  height: 49px;
+  background-position: -211px -181px;
+}
+
+.sprite-styled-components-logo {
+  width: 52px;
+  height: 52px;
+  background-position: -5px -240px;
+}

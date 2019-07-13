@@ -1,0 +1,24 @@
+{
+  "name": "portifolio-gastby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "gatsby": "^2.13.19",
+    "gatsby-plugin-catch-links": "^2.1.2",
+    "gatsby-plugin-feed": "^2.3.4",
+    "gatsby-plugin-google-analytics": "^2.1.4",
+    "gatsby-plugin-manifest": "^2.2.3",
+    "gatsby-plugin-offline": "^2.2.3",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-sitemap": "^2.2.3",
+    "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-transformer-remark": "^2.6.4",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.14",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1"
+  }
+}

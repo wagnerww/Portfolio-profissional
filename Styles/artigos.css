@@ -1,0 +1,29 @@
+.sprite_artigos {
+  background-image: url(../static/sprite_artigos.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.sprite-artigo_angular {
+  width: 150px;
+  height: 84px;
+  background-position: -5px -5px;
+}
+
+.sprite-artigo_react_router {
+  width: 150px;
+  height: 84px;
+  background-position: -5px -99px;
+}
+
+.sprite-artigo_sequelize {
+  width: 150px;
+  height: 43px;
+  background-position: -5px -193px;
+}
+
+.sprite-projeto_docker {
+  width: 150px;
+  height: 150px;
+  background-position: -165px -5px;
+}
