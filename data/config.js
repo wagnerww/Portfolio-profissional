@@ -3,7 +3,7 @@ const config = {
   siteDescription: "Wagner Ricardo Wagner Desenvolvedor Front-end e Back-end",
   siteTitleShort: "Wagner Dev",
   siteImage: "https://algumsite.netlify.com/banner-do-site.png",
-  googleAnalyticsID: "**-********-*",
+  googleAnalyticsID: "UA-143766674-1",
   themeColor: "#ffffff",
   backgroundColor: "#ffff",
   siteUrl: "https://algumsite.netlify.com"
