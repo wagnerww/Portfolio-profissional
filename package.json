@@ -15,7 +15,7 @@
     "gatsby-plugin-sitemap": "^2.2.3",
     "gatsby-source-filesystem": "^2.1.5",
     "gatsby-transformer-remark": "^2.6.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.14",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
