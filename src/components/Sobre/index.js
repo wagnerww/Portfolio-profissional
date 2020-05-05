@@ -17,22 +17,20 @@ const Sobre = () => (
         </p>
         <br />
         <p>
-          Sou Analista e Desenvolvedor de Software com mais de 10 anos de
+          Analista e desenvolvedor de software com mais de 10 anos de
           experiência na área. Possuo conhecimento no ramo de documentação
-          fiscal (NF-e, CT-e, MDF-e, entre outros). Profissional ético,
-          proativo, focado e determinado, com bom relacionamento em equipe.
-          Minhas principais competências envolvem ReactJs, ReactNative,
-          NodeJs(KnexJS, Sequelize, Apollo, GraphQL, AdonisJS), Git, Docker,
-          Jest, Banco de Dados, NoSQL e Genexus. Dentre elas, algumas com
-          certificação: Analista Sênior Genexus por Genexus Uruguay e React por
-          RocketSeat.
+          fiscal(NF-e, CT-e, MDF-e, entre outros). Profissional bem determinado
+          com bom relacionamento, ética, pró-atividade e que sabe como trabalhar
+          em equipe.
         </p>
         <br />
         <p>
-          Hoje meu foco é voltado ao Frontend, especificamente ao React. Mesmo
-          assim, estruturei uma "stack", na qual consigo trabalhar no backend
-          com muita produtividade sem perder o foco em meu objetivo. Essa
-          estrutura está descrita logo abaixo ;)
+          As Minhas principais competências envolvem ReactJs, ReactNative,
+          Vue.js, NodeJs(NestJS, Apollo, GraphQL), Git(Flow & CI/CD com GitHub e
+          GitLab), Docker, Spring Boot, Spring Cloud(NETFLIX OSS) e Genexus.
+          Dentre elas, algumas com certificações: React por RocketSeat, Vue por
+          Mastery, Especialista Spring Rest por AlgaWorks, Spring Cloud(NETFLIX
+          OSS) por Alura e Analista sênior Genexus por Genexus Uruguay.
         </p>
       </div>
     </div>
